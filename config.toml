@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL ="https://FerntheFlern2.github.io/"
 languageCode = "en-us"
-title = "Ink-Free"
+title = "My Blog"
 theme = "ink-free"
 paginate = 5
 
